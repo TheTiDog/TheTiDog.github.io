@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hallo Jungs, mein Name ist Rinor Govori. Ich bin Elektriker und interessiere mich für neue Technologien etc. 
+Ich will hier das neu gelernte blogen. Eine art CheatSheet für mich und auch Active Recall.
+
+Viel Spass
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Bitte Schreibt mir wenn Ihr mir ein Feedback geben wollt. Ich werde mit der Zeit auch eine Kommentar funktion einführen, bis dahin benutzt das gute Alte E-mail.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rinorgovori@gmail.com](mailto:rinorgovori@gmail.com)
