@@ -7,7 +7,7 @@ Die Idee hinter all dem ist es dass Ich hier jeden Tag was neues poste, ich nehm
 
 Alles was ich hier poste wird leicht verständlich sein, was wichtiges zu erwähnen.
 
-#ICH BIN EIN ANFÄNGER.
+# ICH BIN EIN ANFÄNGER.
 
 Aber irgendwo beginnt immer die Reise.
 
